@@ -1,0 +1,51 @@
+.nav{
+    height: auto;
+    width: 100%;
+    top: 0;
+    background: rgb(189,180,180);
+    position: fixed;
+    margin-bottom: 5px;
+}
+.logo{
+    height: 35px;
+    width: 35px;
+}
+.nav ul{
+    width: auto;
+    list-style-type: none;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-left: 5%;
+    padding: 0;
+}
+.nav li{
+    float: left;
+    margin-right: 5%;
+    position: relative;
+    overflow: hidden;
+}
+.nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    overflow: hidden;
+    text-decoration: none;
+}
+.nav li a:hover{
+    background-color: #111;
+}
+.insideMenu{
+    background: rgb(189,180,180);
+    position: relative;
+    display: none;
+}
+.insideMenu li{
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+.menu:hover .insideMenu{
+    display: block;
+}
+
