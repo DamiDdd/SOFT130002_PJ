@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf163c1-929b-4189-bf4a-96ca29e19716" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/icon/access_enter_input_login_sign_in_512px_1225471_easyicon.net.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/account_avatar_person_profile_user_512px_1225506_easyicon.net.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/backup_cloud_server_storage_upload_512px_1225436_easyicon.net.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/banking_card_credit_finance_payment_512px_1225439_easyicon.net.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/bookmark_favorite_like_rate_star_512px_1225452_easyicon.net.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/icon/lock_padlock_privacy_protection_security_512px_1225470_easyicon.net.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browser.html" beforeDir="false" afterPath="$PROJECT_DIR$/browser.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favorate.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo.html" beforeDir="false" afterPath="$PROJECT_DIR$/photo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/upload.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +64,7 @@
       <workItem from="1584606290339" duration="9003000" />
       <workItem from="1584868220892" duration="109000" />
       <workItem from="1584868708377" duration="831000" />
-      <workItem from="1584873298467" duration="10584000" />
+      <workItem from="1584873298467" duration="11846000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1585017015094</created>
@@ -87,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585017015094</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nav3">
+      <created>1585019885373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585019885373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,21 +88,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="login" />
-    <option name="LAST_COMMIT_MESSAGE" value="login" />
+    <MESSAGE value="nav3" />
+    <option name="LAST_COMMIT_MESSAGE" value="nav3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="54" key="CommitChangelistDialog2" timestamp="1585017014788">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="362" y="54" key="CommitChangelistDialog2" timestamp="1585019885124">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1585017014788" />
+    <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1585019885124" />
     <state x="91" y="155" key="RollbackChangesDialog" timestamp="1585016326301">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.829@0.23.1440.829" timestamp="1585016326301" />
-    <state x="368" y="191" key="Vcs.Push.Dialog.v2" timestamp="1585017021205">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="368" y="191" key="Vcs.Push.Dialog.v2" timestamp="1585019887706">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585017021205" />
+    <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585019887706" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1584873298858">
       <screen x="0" y="23" width="1440" height="832" />
     </state>

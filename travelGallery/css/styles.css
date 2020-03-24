@@ -3,7 +3,6 @@
     width: 100%;
     top: 0;
     background: rgb(189,180,180);
-    position: relative;
     margin-bottom: 5px;
 }
 .logo{
@@ -21,8 +20,6 @@
 .nav li{
     float: left;
     margin-right: 5%;
-    position: relative;
-    overflow: hidden;
 }
 .nav li a{
     display: block;
@@ -38,10 +35,10 @@
 .menu{
     padding-left: 30%;
     width:30%;
+    position: relative;
 }
 .insideMenu{
     background: rgb(189,180,180);
-    position: relative;
     display: none;
 }
 .insideMenu li{
