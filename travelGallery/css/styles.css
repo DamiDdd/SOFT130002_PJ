@@ -52,7 +52,7 @@
 .container {
     height: 100%;
     width: 100%;
-    background-image: url("/img/background.jpeg");
+    background-image: url("../img/background.jpeg");
     background-repeat: no-repeat;
     background-position: center center;
     position: fixed;
@@ -65,19 +65,24 @@
     top: 20%;
     right: 15%;
 }
+.logBtn a{
+    text-align: center;
+    padding-left: 7%;
+}
 .logBtn a button {
-    width: 100%;
+    width: 88%;
     height: 45px;
     background-color: #ee7700;
     border: none;
     color: white;
     font-size: 18px;
+    text-align: center;
 }
 .logTip .p1 {
     display: inline-block;
     font-size: 28px;
     margin-top: 30px;
-    width: 86%;
+    width: 80%;
 }
 .logTip {
     width: 86%;
@@ -94,12 +99,12 @@
     height: 42px;
     text-indent: 2.5rem;
 }
-.logGet .logD {
+.log .logD {
     width: 86%;
     position: relative;
     margin: 30px auto;
 }
-.logGet .logD {
+.log .logD {
     width: 86%;
     margin: 0 auto;
 }
