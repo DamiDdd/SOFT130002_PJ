@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf163c1-929b-4189-bf4a-96ca29e19716" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/travelGallery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/travelGallery.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browser.html" beforeDir="false" afterPath="$PROJECT_DIR$/browser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favorate.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo.html" beforeDir="false" afterPath="$PROJECT_DIR$/photo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/upload.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +63,7 @@
       <workItem from="1584606290339" duration="9003000" />
       <workItem from="1584868220892" duration="109000" />
       <workItem from="1584868708377" duration="831000" />
-      <workItem from="1584873298467" duration="27130000" />
+      <workItem from="1584873298467" duration="28011000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1585017015094</created>
@@ -132,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585052214861</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="login signup">
+      <created>1585059986229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585059986229</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,12 +139,14 @@
     <MESSAGE value="nav3" />
     <MESSAGE value="nav finish" />
     <MESSAGE value="footer finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer finish" />
+    <MESSAGE value="login signup" />
+    <option name="LAST_COMMIT_MESSAGE" value="login signup" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="54" key="CommitChangelistDialog2" timestamp="1585052214694">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="362" y="34" key="CommitChangelistDialog2" timestamp="1585059985950">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="362" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585059985950" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.828@0.23.1440.828" timestamp="1585052214694" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1585038440368" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1585038109058" />
@@ -158,9 +156,10 @@
     </state>
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.829@0.23.1440.829" timestamp="1585016326301" />
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.830@0.23.1440.830" timestamp="1585034118603" />
-    <state x="368" y="191" key="Vcs.Push.Dialog.v2" timestamp="1585052218091">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="368" y="183" key="Vcs.Push.Dialog.v2" timestamp="1585059989463">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="368" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585059989463" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1585052218091" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585038442466" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585038134972" />
