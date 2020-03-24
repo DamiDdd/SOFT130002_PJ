@@ -64,7 +64,7 @@
       <workItem from="1584606290339" duration="9003000" />
       <workItem from="1584868220892" duration="109000" />
       <workItem from="1584868708377" duration="831000" />
-      <workItem from="1584873298467" duration="12300000" />
+      <workItem from="1584873298467" duration="14773000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1585017015094</created>
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585021183313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nav3">
+      <created>1585021674459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585021674459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,20 +106,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="nav3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="54" key="CommitChangelistDialog2" timestamp="1585021183067">
+    <state x="362" y="54" key="CommitChangelistDialog2" timestamp="1585021674229">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1585017014788" />
-    <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1585021183067" />
-    <state x="91" y="155" key="RollbackChangesDialog" timestamp="1585016326301">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1585021674229" />
+    <state x="91" y="155" key="RollbackChangesDialog" timestamp="1585034118603">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.829@0.23.1440.829" timestamp="1585016326301" />
-    <state x="368" y="191" key="Vcs.Push.Dialog.v2" timestamp="1585021185121">
+    <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.830@0.23.1440.830" timestamp="1585034118603" />
+    <state x="368" y="191" key="Vcs.Push.Dialog.v2" timestamp="1585021675966">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585017021205" />
-    <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585021185121" />
+    <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585021675966" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1584873298858">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
