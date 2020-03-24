@@ -73,8 +73,9 @@
 }
 
 .footer{
-    background-color: #333333;
-    padding:10px;
+    float: none;
+    background-color: whitesmoke;
+    top: 0;
     text-align: center;
     font-size: smaller;
     color: grey;

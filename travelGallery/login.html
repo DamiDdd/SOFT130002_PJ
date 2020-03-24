@@ -3,46 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
-    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/login.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <div class="nav">
-        <ul>
-            <li><img class="logo" src="img/logo.png"></li>
-            <li><a href="index.html">首页</a></li>
-            <li><a href="browser.html">浏览页</a></li>
-            <li><a href="search.html">搜索页</a></li>
-            <div class="menu">
-                <a href="personal.html" class="dropBtn active">个人中心</a>
-                <div class="insideMenu">
-                    <a href="upload.html"><img class="icon" src="img/icon/backup_cloud_server_storage_upload_512px_1225436_easyicon.net.png">上传</a>
-                    <a href="photo.html"><img class="icon" src="img/icon/banking_card_credit_finance_payment_512px_1225439_easyicon.net.png">我的照片</a>
-                    <a href="favorate.html"><img class="icon" src="img/icon/bookmark_favorite_like_rate_star_512px_1225452_easyicon.net.png">我的收藏</a>
-                    <a href="login.html"><img class="icon" src="img/icon/access_enter_input_login_sign_in_512px_1225471_easyicon.net.png">登入</a>
+    <div class="container">
+        <img src="img/background.jpeg" alt="">
+        <div class="panel">
+            <div class="content login">
+                <div class="switch">
+                    <span id="login" class="active">Login</span><span>/</span><span id="signup">Sign Up</span>
                 </div>
+                <form action="">
+                    <div id="email" class="input" placeholder="Email"><input type="text"></div>
+                    <div class="input" placeholder="Name"><input type="text"></div>
+                    <div class="input" placeholder="Password"><input type="password"></div>
+                    <div id="repeat" class="input" placeholder="Repeat"><input type="password"></div>
+                    <span>Forget?</span>
+                    <button><a href="index.html">LOGIN</a></button>
+                </form>
             </div>
-        </ul>
+        </div>
+        <div class="footer"><p>我是一个页脚 @16307110125_qujunjie</p></div>
     </div>
-<!--    <div class="container" id="container">-->
-<!--        <div class="log">-->
-<!--            <div class="logTip">-->
-<!--                <p class="p1">登录</p>-->
-<!--            </div>-->
-<!--            <div class="logD">-->
-<!--                <img src="img/icon/account_avatar_person_profile_user_512px_1225506_easyicon.net.png" width="20" height="20" alt=""/>-->
-<!--                <input type="text"-->
-<!--                       placeholder="输入用户名" />-->
-<!--            </div>-->
-<!--            <div class="logD">-->
-<!--                <img src="img/icon/lock_padlock_privacy_protection_security_512px_1225470_easyicon.net.png" width="20" height="20" alt=""/>-->
-<!--                <input type="password"-->
-<!--                       placeholder="输入用户密码" />-->
-<!--            </div>-->
-<!--            <div class="logBtn">-->
-<!--                <a href="index.html" target="_self"><button>登 录</button></a>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-    <div class="footer"><p>我是一个页脚 @16307110125_qujunjie</p></div>
 </body>
+
+<script src="http://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    $('#login').click(function(){
+        $('.switch span').removeClass('active');
+        $(this).addClass('active');
+
+        $(this).parents('.content').removeClass('signup');
+        $(this).parents('.content').addClass('login');
+
+        $('form button').text('LOGIN')
+    })
+
+    $('#signup').click(function(){
+        $('.switch span').removeClass('active');
+        $(this).addClass('active');
+
+        $(this).parents('.content').removeClass('login');
+        $(this).parents('.content').addClass('signup');
+        $('form button').text('SIGNUP')
+    })
+
+    $('.input input').on('focus',function(){
+        $(this).parent().addClass('focus');
+    })
+
+    $('.input input').on('blur',function(){
+        if($(this).val() === '')
+        $(this).parent().removeClass('focus');
+    })
+</script>
 </html>
