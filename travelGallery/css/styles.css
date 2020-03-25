@@ -80,6 +80,34 @@ body{
     height: 100%;
 }
 
+/*回到顶部*/
+#ontopBtn{
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    left: 50%;
+    bottom: 30px;
+    background:url("../img/top.png") no-repeat left top;
+    margin-left: 610px;
+    display: block;
+}
+#ontopBtn:hover{
+    background:url("../img/top.png") no-repeat left -40px;
+}
+#refreshBtn{
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    left: 50%;
+    bottom: 70px;
+    background:url("../img/refresh.png") no-repeat left top;
+    margin-left: 610px;
+    display: block;
+}
+#refreshBtn:hover{
+    transform: rotate(45deg);
+}
+
 /*页脚*/
 .footer{
     float: none;
@@ -90,6 +118,10 @@ body{
     text-align: center;
     font-size: smaller;
     color: grey;
+    opacity: 0.1;
+}
+.footer:hover{
+    opacity: 1;
 }
 
 /*上传页面*/
