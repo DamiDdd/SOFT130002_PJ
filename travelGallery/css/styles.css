@@ -233,3 +233,38 @@ form button a{
         width: 100%;
     }
 }
+
+/*图片概述栏*/
+.imageOversee{
+    width: 80%;
+    height: 1000px;
+    overflow: scroll;
+    border: 1px solid #111111;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.imageDiv2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #111111;
+    float: left;
+    overflow: hidden;
+}
+.imageDiv2 img{
+    width: 200px;
+    height: auto;
+}
+.imageDesc1{
+    height: 50px;
+    line-height: 50px;
+    border: 1px solid #111111;
+    overflow: hidden;
+}
+.imageDesc1 a{
+    text-decoration: none;
+}
+.imageDesc2{
+    height: 150px;
+    border: 1px solid #111111;
+    overflow: hidden;
+}
