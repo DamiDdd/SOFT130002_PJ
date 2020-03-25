@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf163c1-929b-4189-bf4a-96ca29e19716" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/imageTip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/upload.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/upload.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,6 +43,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -65,6 +74,7 @@
       <workItem from="1584868220892" duration="109000" />
       <workItem from="1584868708377" duration="831000" />
       <workItem from="1584873298467" duration="28011000" />
+      <workItem from="1585116223707" duration="6332000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1585017015094</created>
@@ -129,13 +139,35 @@
       <option name="project" value="LOCAL" />
       <updated>1585059986229</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="login signup">
+      <created>1585099197337</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585099197337</updated>
+    </task>
+    <task id="LOCAL-00011" summary="login signup">
+      <created>1585099238599</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585099238599</updated>
+    </task>
+    <task id="LOCAL-00012" summary="login signup">
+      <created>1585099280677</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585099280677</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="login" />
     <MESSAGE value="nav3" />
     <MESSAGE value="nav finish" />
@@ -144,10 +176,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="login signup" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="362" y="34" key="CommitChangelistDialog2" timestamp="1585099238407">
+    <state x="320" y="104" key="#HTTP_Proxy" timestamp="1585117471864">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="104" key="#HTTP_Proxy/0.23.1440.821@0.23.1440.821" timestamp="1585117471864" />
+    <state x="741" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585136406906">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="741" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.827@0.23.1440.827" timestamp="1585136406906" />
+    <state x="362" y="34" key="CommitChangelistDialog2" timestamp="1585099280484">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="362" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585099238407" />
+    <state x="362" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585099280484" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.828@0.23.1440.828" timestamp="1585052214694" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1585038440368" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1585038109058" />
@@ -157,17 +197,18 @@
     </state>
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.829@0.23.1440.829" timestamp="1585016326301" />
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.830@0.23.1440.830" timestamp="1585034118603" />
-    <state x="368" y="183" key="Vcs.Push.Dialog.v2" timestamp="1585099240803">
+    <state x="368" y="183" key="Vcs.Push.Dialog.v2" timestamp="1585099282087">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="368" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585099240803" />
+    <state x="368" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585099282087" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1585052218091" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585038442466" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585038134972" />
-    <state x="419" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1584873298858">
-      <screen x="0" y="23" width="1440" height="832" />
+    <state x="419" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1585116227235">
+      <screen x="0" y="23" width="1440" height="817" />
     </state>
     <state x="419" y="288" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584868278401" />
+    <state x="419" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.817@0.23.1440.817" timestamp="1585116227235" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1584606295309" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1584868716657" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1584873298858" />

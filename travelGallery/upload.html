@@ -20,12 +20,26 @@
                     <a href="favorate.html"><img class="icon" src="img/icon/bookmark_favorite_like_rate_star_512px_1225452_easyicon.net.png">我的收藏</a>
                     <a href="login.html"><img class="icon" src="img/icon/access_enter_input_login_sign_in_512px_1225471_easyicon.net.png">登入</a>
                 </div>
-            </div>
+            </div
         </ul>
     </div>
     <div class="mainContainer">
-        <h3>testtesttesttesttesttesttesttesttesttesttesttest</h3>
+        <div class="uploadContainer">
+            <form method="post" enctype="multipart/form-data" id="upload">
+                <p id="previewTip">图片预览：</p>
+                <div id="uploadDiv">
+                    <img id="bigImg" alt="" title="preview-img" height="400" src="img/imageTip.png"/>
+                    <div class="inputImage"><input type="file" id="file" name="uploadImage" accept="image/gif, image/jpeg, image/png, image/jpg"></div>
+                    <div class="input"><input type="text" id="title" placeholder="标题"></div>
+                    <div class="input"><input type="text" id="info" placeholder="描述"></div>
+                    <div class="input"><input type="text" id="country" placeholder="拍摄国家"></div>
+                    <div class="input"><input type="text" id="city" placeholder="拍摄城市"></div>
+                    <button type="submit" id="uploadBtn"><a href="photo.html">UPLOAD</a></button>
+                </div>
+            </form>
+        </div>
     </div>
     <div class="footer"><p>我是一个页脚 @16307110125_qujunjie</p></div>
 </body>
+<script src="js/upload.js"></script>
 </html>

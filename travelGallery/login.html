@@ -26,35 +26,6 @@
         <div class="footer"><p>我是一个页脚 @16307110125_qujunjie</p></div>
     </div>
 </body>
-
 <script src="http://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
-<script>
-    $('#login').click(function(){
-        $('.switch span').removeClass('active');
-        $(this).addClass('active');
-
-        $(this).parents('.content').removeClass('signup');
-        $(this).parents('.content').addClass('login');
-
-        $('form button').text('LOGIN')
-    })
-
-    $('#signup').click(function(){
-        $('.switch span').removeClass('active');
-        $(this).addClass('active');
-
-        $(this).parents('.content').removeClass('login');
-        $(this).parents('.content').addClass('signup');
-        $('form button').text('SIGNUP')
-    })
-
-    $('.input input').on('focus',function(){
-        $(this).parent().addClass('focus');
-    })
-
-    $('.input input').on('blur',function(){
-        if($(this).val() === '')
-            $(this).parent().removeClass('focus');
-    })
-</script>
+<script type="text/javascript" src="js/login.js"></script>
 </html>
