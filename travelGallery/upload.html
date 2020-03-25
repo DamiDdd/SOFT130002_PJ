@@ -23,21 +23,19 @@
             </div
         </ul>
     </div>
-    <div class="mainContainer">
-        <div class="uploadContainer">
-            <form method="post" enctype="multipart/form-data" id="upload">
-                <p id="previewTip">图片预览：</p>
-                <div id="uploadDiv">
-                    <img id="bigImg" alt="" title="preview-img" height="400" src="img/imageTip.png"/>
-                    <div class="inputImage"><input type="file" id="file" name="uploadImage" accept="image/gif, image/jpeg, image/png, image/jpg"></div>
-                    <div class="input"><input type="text" id="title" placeholder="标题"></div>
-                    <div class="input"><input type="text" id="info" placeholder="描述"></div>
-                    <div class="input"><input type="text" id="country" placeholder="拍摄国家"></div>
-                    <div class="input"><input type="text" id="city" placeholder="拍摄城市"></div>
-                    <button type="submit" id="uploadBtn"><a href="photo.html">UPLOAD</a></button>
-                </div>
-            </form>
-        </div>
+    <div class="uploadContainer">
+        <form method="post" enctype="multipart/form-data" id="upload">
+            <p id="previewTip">图片预览：</p>
+            <div id="uploadDiv">
+                <img id="bigImg" alt="" title="preview-img" height="400" src="img/imageTip.png"/>
+                <div class="inputImage"><input type="file" id="file" name="uploadImage" accept="image/gif, image/jpeg, image/png, image/jpg"></div><br>
+                <div class="input"><textarea class="normalInput" type="text" id="title" placeholder="标题" maxlength="20"></textarea></div>
+                <div class="largeInput"><textarea class="longInput" type="text" id="info" placeholder="描述" maxlength="200"></textarea></div>
+                <div class="input"><textarea class="normalInput" type="text" id="country" placeholder="拍摄国家" maxlength="10"></textarea></div>
+                <div class="input"><textarea class="normalInput" type="text" id="city" placeholder="拍摄城市" maxlength="10"></textarea></div>
+                <button type="submit" id="uploadBtn"><a href="photo.html">UPLOAD</a></button>
+            </div>
+        </form>
     </div>
     <div class="footer"><p>我是一个页脚 @16307110125_qujunjie</p></div>
 </body>
