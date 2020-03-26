@@ -72,12 +72,13 @@ body{
     height: 20px;
 }
 
-/*临时使用的边框*/
+/*主视图使用的边框*/
 .mainContainer{
     padding: 20px;
     margin-top: 30px;
     background-color: #f1f1f1;
     height: 100%;
+    overflow: scroll;
 }
 
 /*回到顶部*/
@@ -85,7 +86,7 @@ body{
     width: 40px;
     height: 40px;
     position: fixed;
-    left: 50%;
+    right: 0;
     bottom: 30px;
     background:url("../img/top.png") no-repeat left top;
     margin-left: 610px;
@@ -98,7 +99,7 @@ body{
     width: 40px;
     height: 40px;
     position: fixed;
-    left: 50%;
+    right: 0;
     bottom: 70px;
     background:url("../img/refresh.png") no-repeat left top;
     margin-left: 610px;
@@ -106,6 +107,12 @@ body{
 }
 #refreshBtn:hover{
     transform: rotate(45deg);
+}
+.deleteBtn, .editBtn{
+    float: right;
+    padding-right: 1rem;
+    padding-top: 0.6rem;
+    position: relative;
 }
 
 /*页脚*/
@@ -125,11 +132,15 @@ body{
 }
 
 /*上传页面*/
-.uploadContainer{
-    padding: 20px;
-    margin-top: 30px;
-    background-color: #f1f1f1;
-    height: 900px;
+#previewTip{
+    margin-left: 10%;
+    font-size: larger;
+}
+#bigImg{
+    margin: 0 10%;
+}
+.inputImage{
+    margin: 0 10%;
 }
 .input{
     position: relative;
@@ -147,16 +158,18 @@ body{
 }
 .normalInput{
     height: 1.5rem;
-    width: 27%;
+    width: 80%;
+    margin: 0 10%;
 }
 .longInput{
     height: 8rem;
-    width: 27%;
+    width: 80%;
+    margin: 0 10%;
 }
 form button{
     border: none;
     outline: none;
-    margin: 2rem 0 0;
+    margin: 2rem 35%;
     width: 27%;
     height: 3.5rem;
     border-radius: 3rem;
@@ -169,14 +182,6 @@ form button a{
 }
 
 /*精选图片*/
-.photoContainer{
-    padding-top: 20px;
-    margin-top: 30px;
-    background-color: #f1f1f1;
-    height: 100%;
-    width: auto;
-    overflow: scroll;
-}
 .headImg{
     text-align: center;
 }
@@ -237,16 +242,22 @@ form button a{
 /*图片概述栏*/
 .imageOversee{
     width: 80%;
-    height: 1000px;
-    overflow: scroll;
-    border: 1px solid #111111;
+    height: 210px;
+    overflow: hidden;
+    /*border: 1px solid #111111;*/
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 1%;
+}
+.imageOversee:first-of-type{
+    margin-top: 3%;
+}
+.imageOversee:last-of-type{
+    margin-bottom: 3%;
 }
 .imageDiv2{
     width: 200px;
     height: 200px;
-    border: 1px solid #111111;
+    /*border: 1px solid #111111;*/
     float: left;
     overflow: hidden;
 }
@@ -254,17 +265,31 @@ form button a{
     width: 200px;
     height: auto;
 }
+.imageDiv2 img:hover{
+    transform: scale(1.1);
+}
 .imageDesc1{
     height: 50px;
     line-height: 50px;
-    border: 1px solid #111111;
+    border: 1px solid gray;
     overflow: hidden;
 }
 .imageDesc1 a{
     text-decoration: none;
+    padding-left: 20px;
+    color: #111111;
+}
+.imageDesc1 a:hover{
+    font-weight: bold;
 }
 .imageDesc2{
-    height: 150px;
-    border: 1px solid #111111;
+    height: 140px;
+    border: 1px solid gray;
     overflow: hidden;
+    line-height: 20px;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.imageDesc2:first-letter{
+    font-size: larger;
 }
