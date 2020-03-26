@@ -293,3 +293,52 @@ form button a{
 .imageDesc2:first-letter{
     font-size: larger;
 }
+
+.detailContainer{
+    position: relative;
+}
+.detailContainer div{
+    /*border: 1px solid #111111;*/
+    overflow: hidden;
+}
+.mainTitle{
+    font-size: 40px;
+}
+.author{
+    font-weight: lighter;
+    padding-right: 200px;
+    color: #777777;
+    float: right;
+    font-size: 20px;
+    line-height: 10px;
+}
+.bigImgDiv{
+    float: left;
+    padding-left: 30px;
+}
+.content{
+    line-height: 30px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.content:first-letter{
+    font-size:28px;
+}
+.detailDiv{
+    height: 200px;
+    margin-top: 150px;
+    padding-left: 20px;
+}
+.detail{
+    font-size:20px;
+    line-height: 30px;
+    padding-left: 20px;
+}
+.detailDiv .likeBtnDiv{
+    border:1px solid #a5b6c8;
+    background:#eef3f7;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+}
