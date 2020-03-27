@@ -145,6 +145,42 @@ body{
     opacity: 1;
 }
 
+/*分页页码*/
+.pageNumDiv{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.pageNumDiv a{
+    cursor: pointer;
+    text-decoration: none;
+}
+.pageNumDiv a, .pageNumDiv span{
+    margin-right: 12px;
+}
+.pageNumDiv .num{
+    display: inline-block;
+    color: #333333;
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+}
+.pageNumDiv .current{
+    background: #333333;
+    color: #f1f1f1;
+    border-radius: 100%;
+}
+.pageNumDiv .prev:hover, .pageNumDiv .next:hover{
+    background: #d9dde1;
+}
+.pageNumDiv .num:hover{
+    background: #d9dde1;
+    border-radius: 100%;
+}
+.pageNumDiv .prev,.pageNumDiv .next{
+    color: #111111;
+}
+
 /*搜索页面*/
 .pageContainer div{
     /*border: 1px solid #111111;*/

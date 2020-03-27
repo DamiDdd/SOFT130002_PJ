@@ -4,12 +4,7 @@
     <list default="true" id="1bf163c1-929b-4189-bf4a-96ca29e19716" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tempImages/detialTest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tempImages/detailTest.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/upload.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,7 @@
       <workItem from="1584868220892" duration="109000" />
       <workItem from="1584868708377" duration="831000" />
       <workItem from="1584873298467" duration="28011000" />
-      <workItem from="1585116223707" duration="47787000" />
+      <workItem from="1585116223707" duration="48741000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1585017015094</created>
@@ -218,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585234073189</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="init search">
+      <created>1585286134196</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585286134196</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +240,8 @@
     <MESSAGE value="init favorate" />
     <MESSAGE value="favorate &amp; photo" />
     <MESSAGE value="detail" />
-    <option name="LAST_COMMIT_MESSAGE" value="detail" />
+    <MESSAGE value="init search" />
+    <option name="LAST_COMMIT_MESSAGE" value="init search" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="104" key="#HTTP_Proxy" timestamp="1585117471864">
@@ -255,13 +258,13 @@
     <state x="741" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.824@0.23.1440.824" timestamp="1585141942327" />
     <state x="741" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1585195321797" />
     <state x="741" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.827@0.23.1440.827" timestamp="1585136406906" />
-    <state x="362" y="53" key="CommitChangelistDialog2" timestamp="1585234072964">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="362" y="52" key="CommitChangelistDialog2" timestamp="1585286133904">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state x="362" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585099280484" />
     <state x="362" y="45" key="CommitChangelistDialog2/0.23.1440.817@0.23.1440.817" timestamp="1585148934254" />
     <state x="362" y="51" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1585138587783" />
-    <state x="362" y="52" key="CommitChangelistDialog2/0.23.1440.824@0.23.1440.824" timestamp="1585156668620" />
+    <state x="362" y="52" key="CommitChangelistDialog2/0.23.1440.824@0.23.1440.824" timestamp="1585286133904" />
     <state x="362" y="53" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1585234072964" />
     <state x="362" y="52" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1585229783586" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.828@0.23.1440.828" timestamp="1585052214694" />
@@ -273,13 +276,13 @@
     </state>
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.829@0.23.1440.829" timestamp="1585016326301" />
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.830@0.23.1440.830" timestamp="1585034118603" />
-    <state x="368" y="191" key="Vcs.Push.Dialog.v2" timestamp="1585234077660">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="368" y="191" key="Vcs.Push.Dialog.v2" timestamp="1585286136223">
+      <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state x="368" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585099282087" />
     <state x="368" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.817@0.23.1440.817" timestamp="1585148937185" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585138592893" />
-    <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1585156672407" />
+    <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.824@0.23.1440.824" timestamp="1585286136223" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1585234077660" />
     <state x="368" y="192" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1585229785573" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1585052218091" />
