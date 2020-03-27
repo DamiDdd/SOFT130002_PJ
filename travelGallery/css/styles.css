@@ -93,6 +93,31 @@ body{
     /*border: 1px solid #111111;*/
     overflow: hidden;
 }
+.hotDiv{
+    /*border: 1px solid #111111;*/
+    display: block;
+    overflow: scroll;
+}
+.hotDiv ul li{
+    display: list-item;
+    cursor: pointer;
+    padding: 8px 0;
+    border-top: 1px solid #e0e0e0;
+    list-style: none;
+    width: 78%;
+    line-height: 16px;
+}
+.hotDiv ul{
+    padding:0 32px 30px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.05);
+}
+.hotDiv span{
+    height: 60px;
+    line-height: 60px;
+    display: block;
+    font-size: larger;
+    color: #7BA7AB;
+}
 
 /*回到顶部*/
 #ontopBtn{
@@ -181,10 +206,49 @@ body{
     color: #111111;
 }
 
-/*搜索页面*/
-.pageContainer div{
-    /*border: 1px solid #111111;*/
+/*预览页面*/
+.leftContainer{
+    float: left;
+    height: 100%;
+    width: 300px;
 }
+.leftContainer .titleSearch{
+    height: 100px;
+    margin-top: 20px;
+}
+.leftContainer .titleSearch input {
+    border: 2px solid #7BA7AB;
+    border-radius: 5px;
+    color: #9E9C9C;
+}
+.leftContainer .titleSearch button, .filterDiv button{
+    top: 0;
+    right: 0;
+    background: #7BA7AB;
+    border-radius: 0 5px 5px 0;
+}
+.leftContainer .titleSearch button:before , .filterDiv button:before{
+    font-size: 16px;
+    color: #F9F0DA;
+}
+.leftContainer .titleSearch button:before{
+    content: "搜索";
+}
+.filterDiv button:before{
+    content: "filter"
+}
+.hotDiv{
+    height: 300px;
+}
+.filterDiv{
+    text-align: center;
+}
+.filterDiv select{
+    width: 70px;
+    margin: 20px;
+}
+
+/*搜索页面*/
 .searchDiv form{
     height: 50px;
     width: 100%;
@@ -207,14 +271,14 @@ body{
     width: 100px;
     cursor: pointer;
 }
-.searchDiv button:before {
+.titleSearch button:before{
     font-size: 13px;
     color: #F9F0DA;
-}
-.titleSearch button:before{
     content: "按标题搜索";
 }
 .contentSearch button:before{
+    font-size: 13px;
+    color: #F9F0DA;
     content: "按内容搜索";
 }
 
