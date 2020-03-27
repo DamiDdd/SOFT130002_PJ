@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     margin: 0;
     padding: 0;
@@ -80,6 +83,16 @@ body{
     height: 100%;
     overflow: scroll;
 }
+.pageContainer{
+    /*调试用*/
+    /*border: 1px solid #111111;*/
+    position: relative;
+}
+.pageContainer div{
+    /*调试用*/
+    /*border: 1px solid #111111;*/
+    overflow: hidden;
+}
 
 /*回到顶部*/
 #ontopBtn{
@@ -109,6 +122,7 @@ body{
     transform: rotate(45deg);
 }
 .deleteBtn, .editBtn{
+    box-sizing: unset;
     float: right;
     padding-right: 1rem;
     padding-top: 0.6rem;
@@ -129,6 +143,43 @@ body{
 }
 .footer:hover{
     opacity: 1;
+}
+
+/*搜索页面*/
+.pageContainer div{
+    /*border: 1px solid #111111;*/
+}
+.searchDiv form{
+    height: 50px;
+    width: 100%;
+    padding-left: 20%;
+    padding-top: 10px;
+}
+.searchDiv input, .searchDiv textarea {
+    width: 70%;
+    height: 30px;
+    border: 2px solid #4caf50;
+    border-radius: 5px;
+    background: transparent;
+    top: 0;
+    right: 0;
+}
+.searchDiv button {
+    height: 30px;
+    background: #4caf50;
+    border-radius: 0 5px 5px 0;
+    width: 100px;
+    cursor: pointer;
+}
+.searchDiv button:before {
+    font-size: 13px;
+    color: #F9F0DA;
+}
+.titleSearch button:before{
+    content: "按标题搜索";
+}
+.contentSearch button:before{
+    content: "按内容搜索";
 }
 
 /*上传页面*/
@@ -166,7 +217,7 @@ body{
     width: 80%;
     margin: 0 10%;
 }
-form button{
+.uploadForm button{
     border: none;
     outline: none;
     margin: 2rem 35%;
@@ -177,7 +228,7 @@ form button{
     box-shadow: 0 0 8px rgb(138,151,123);
     cursor: pointer;
 }
-form button a{
+.uploadForm button a{
     text-decoration: none;
 }
 
@@ -188,8 +239,8 @@ form button a{
 .tempPhoto{
     width: 70%;
     height: 650px;
-    /*border: 1px solid #111111;*/
-    margin-left: 20%;
+    margin-left: 15%;
+    overflow: scroll;
 }
 .imgDiv{
     margin: 10px 10px;
@@ -242,9 +293,8 @@ form button a{
 /*图片概述栏*/
 .imageOversee{
     width: 80%;
-    height: 210px;
+    height: 200px;
     overflow: hidden;
-    /*border: 1px solid #111111;*/
     margin-left: 10%;
     margin-top: 1%;
 }
@@ -257,7 +307,6 @@ form button a{
 .imageDiv2{
     width: 200px;
     height: 200px;
-    /*border: 1px solid #111111;*/
     float: left;
     overflow: hidden;
 }
@@ -271,7 +320,7 @@ form button a{
 .imageDesc1{
     height: 50px;
     line-height: 50px;
-    border: 1px solid gray;
+    border: 1px solid darkseagreen;
     overflow: hidden;
 }
 .imageDesc1 a{
@@ -283,8 +332,8 @@ form button a{
     font-weight: bold;
 }
 .imageDesc2{
-    height: 140px;
-    border: 1px solid gray;
+    height: 160px;
+    border: 1px solid darkseagreen;
     overflow: hidden;
     line-height: 20px;
     padding-top: 5px;
@@ -294,13 +343,7 @@ form button a{
     font-size: larger;
 }
 
-.detailContainer{
-    position: relative;
-}
-.detailContainer div{
-    /*border: 1px solid #111111;*/
-    overflow: hidden;
-}
+/*图片详情页*/
 .mainTitle{
     font-size: 40px;
 }
