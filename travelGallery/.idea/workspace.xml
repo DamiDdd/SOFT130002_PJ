@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/phpstudy_pro/Extensions/php/php7.3.4nts/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
@@ -413,12 +413,12 @@
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1585052218091" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585038442466" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585038134972" />
-    <state x="558" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1591536318848">
+    <state x="558" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1592667071511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="372" y="217" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587664336709" />
     <state x="419" y="288" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584868278401" />
-    <state x="558" y="332" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591536318848" />
+    <state x="558" y="332" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592667071511" />
     <state x="419" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.817@0.23.1440.817" timestamp="1585116227235" />
     <state x="419" y="286" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1585302592000" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1584606295309" />
