@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dec7312f-c910-4a23-b63b-bdbc34f40e23" name="test" url="http://localhost:4431">
+        <fileTransfer port="0" mountedRoot="C:\Users\User\Desktop\开学了\【打包下载】Web应用基础等\project\SOFT130002_PJ\travelGallery" accessType="MOUNT" />
+      </webServer>
+      <webServer id="f4764d62-8879-4062-b87c-542b593fd3d9" name="apache" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,147 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bf163c1-929b-4189-bf4a-96ca29e19716" name="Default Changelist" comment="sql php test">
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/222223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/5856658791.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6114850721.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6114859969.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6114904363.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6114960821.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6119143988.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6592294487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6592902825.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/6592914823.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/8152045872.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/8710320515.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9494470337.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9494472443.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9496787858.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9496799098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9498381010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9502741759.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9504449928.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9504606628.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/large/9504613978.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/5855191275.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/5855209453.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/5855735700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/5855752464.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/5855774224.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/8152043422.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/8710247776.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9495571869.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9495574327.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9496560520.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9498358806.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9498386718.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9504445110.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9504451722.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/medium/9505536014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/222223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/5855213165.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/5855221959.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/5856697109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/6114850721.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/6114907897.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/6115603234_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/6119127716.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/6596046267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/8152020963.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/8152048712.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/8646991554.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/8710320515.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9494282329.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9494475161.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9496787858.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9496792166.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9498368556.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9498388516.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9504606628.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/small/9505897492.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/222223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/5855174537.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/5855729828.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/5855735700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/6114881215.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/6119130918.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/6592317633.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/6596046267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/6596048341.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/8152016381.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/8710513053.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/8730408907.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/8731523536.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/9493997865.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/9494464567.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/9502740177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/9504448540.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/9504609042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-medium/9505893300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/5856658791.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/5857398054.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/6114859969.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/6114960821.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/6119127716.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/6592294487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/6592902825.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/6592914823.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/8152045872.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/8152048712.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/8710289254.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/8710320515.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9494472443.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9494475161.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9495574327.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9496787858.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9496799098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9502741759.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9504606628.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-small/9504613978.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/222223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/5855174537.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/5855729828.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/6115548152.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/6592317633.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/6596046267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/6596048341.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/8152020963.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/8152043422.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/8152045688.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/8710513053.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/8730408907.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/8731526170.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/9496560520.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/9502740177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/9504448540.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/9504609042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/9505893300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/square-tiny/9505897492.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/222223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/5855191275.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/5855209453.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/5856654945.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/5857298322.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/5857398054.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/6114859969.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/6114907897.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/6119143988.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/6592294487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/6592902825.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/8710289254.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/8711623884.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9494472443.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9494475161.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9495571869.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9496799098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9498358806.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9498368556.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9498381010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9498386718.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9502741759.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/travel-images/thumb/9504613978.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/test.php" afterDir="false" />
+    <list default="true" id="1bf163c1-929b-4189-bf4a-96ca29e19716" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/lab9-exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/travelGallery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/travelGallery.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1ZL6yzbNUUHUNfKVxeNlCH3ucpz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -180,20 +48,39 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/phpstudy_pro/Extensions/php/php7.3.4nts/php.exe" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/tempImages" />
-      <recent name="$PROJECT_DIR$/img/icon" />
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/icon" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\开学了\【打包下载】Web应用基础等\project\SOFT130002_PJ\travelGallery\php" />
+      <recent name="$PROJECT_DIR$/img/tempImages" />
+      <recent name="$PROJECT_DIR$/img/icon" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.Myphp">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/test.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="Myphp" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="PHP Built-in Web Server.Myphp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -214,7 +101,10 @@
       <workItem from="1585366668025" duration="911000" />
       <workItem from="1585727588557" duration="821000" />
       <workItem from="1587519603243" duration="4389000" />
-      <workItem from="1587663663043" duration="2914000" />
+      <workItem from="1587663663043" duration="6641000" />
+      <workItem from="1588724136797" duration="88000" />
+      <workItem from="1590928456918" duration="3341000" />
+      <workItem from="1591536317496" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1585017015094</created>
@@ -398,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587519779998</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="php test">
+      <created>1587693302343</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1587693302344</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,9 +321,14 @@
     <MESSAGE value="PJ1 point (git page)" />
     <MESSAGE value="update img" />
     <MESSAGE value="sql php test" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql php test" />
+    <MESSAGE value="php test" />
+    <option name="LAST_COMMIT_MESSAGE" value="php test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1591536558153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1591536558153" />
     <state x="320" y="104" key="#HTTP_Proxy" timestamp="1585117471864">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -436,20 +338,25 @@
     </state>
     <state x="276" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1587665691750" />
     <state x="311" y="107" key="#Inspections/0.23.1440.827@0.23.1440.827" timestamp="1585194563120" />
-    <state x="329" y="0" key="#PHP" timestamp="1587623078533">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="494" y="0" key="#PHP" timestamp="1590928576477">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="329" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1587623078533" />
+    <state x="494" y="0" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1590928576477" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591536640233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591536640233" />
     <state x="741" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585195321797">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="741" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.824@0.23.1440.824" timestamp="1585141942327" />
     <state x="741" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1585195321797" />
     <state x="741" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.827@0.23.1440.827" timestamp="1585136406906" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1587691888654">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1587693300556">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587691888654" />
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587693300556" />
     <state x="362" y="34" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586240118757" />
     <state x="362" y="45" key="CommitChangelistDialog2/0.23.1440.817@0.23.1440.817" timestamp="1585148934254" />
     <state x="362" y="51" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1585138587783" />
@@ -460,6 +367,26 @@
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1585038440368" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1585038109058" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1585034874393" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591536552414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591536552414" />
+    <state width="1830" height="249" key="GridCell.Tab.0.bottom" timestamp="1591536921606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1830" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591536921606" />
+    <state width="1830" height="249" key="GridCell.Tab.0.center" timestamp="1591536921605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1830" height="249" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591536921605" />
+    <state width="1830" height="249" key="GridCell.Tab.0.left" timestamp="1591536921605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1830" height="249" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591536921605" />
+    <state width="1830" height="249" key="GridCell.Tab.0.right" timestamp="1591536921605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1830" height="249" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591536921605" />
     <state x="458" y="264" key="NewPhpFileDialog" timestamp="1587665606281">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -469,10 +396,14 @@
     </state>
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.829@0.23.1440.829" timestamp="1585016326301" />
     <state x="91" y="155" key="RollbackChangesDialog/0.23.1440.830@0.23.1440.830" timestamp="1585034118603" />
-    <state x="264" y="53" key="Vcs.Push.Dialog.v2" timestamp="1587519792442">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1591536715736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591536715736" />
+    <state x="264" y="53" key="Vcs.Push.Dialog.v2" timestamp="1587693304956">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="53" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587519792442" />
+    <state x="264" y="53" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587693304956" />
     <state x="368" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586240121284" />
     <state x="368" y="190" key="Vcs.Push.Dialog.v2/0.23.1440.817@0.23.1440.817" timestamp="1585148937185" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585138592893" />
@@ -482,11 +413,12 @@
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1585052218091" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585038442466" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585038134972" />
-    <state x="372" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1587664336709">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="558" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1591536318848">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="372" y="217" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587664336709" />
     <state x="419" y="288" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584868278401" />
+    <state x="558" y="332" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591536318848" />
     <state x="419" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.817@0.23.1440.817" timestamp="1585116227235" />
     <state x="419" y="286" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1585302592000" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1584606295309" />

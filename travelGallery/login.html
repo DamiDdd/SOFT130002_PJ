@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
@@ -13,13 +13,14 @@
                 <div class="switch">
                     <span id="login" class="active">Login</span><span>/</span><span id="signup">Sign Up</span>
                 </div>
-                <form action="" method="">
-                    <div id="email" class="input" placeholder="Email"><input type="text"></div>
-                    <div class="input" placeholder="Name"><input type="text"></div>
-                    <div class="input" placeholder="Password"><input type="password"></div>
-                    <div id="repeat" class="input" placeholder="Repeat"><input type="password"></div>
-                    <span>Forget?</span>
-                    <button><a href="index.html">LOGIN</a></button>
+                <form action="php/login.php" method="post">
+                    <div id="email" class="input" placeholder="Email"><input type="text" name="email"></div>
+                    <div class="input" placeholder="Name"><input type="text" name="username"></div>
+                    <div class="input" placeholder="Password"><input type="password" name="password"></div>
+                    <div id="repeat" class="input" placeholder="Repeat"><input type="password" name="passwordRepeat"></div>
+<!--                    <span>Forget?</span>-->
+<!--                    <button><a href="index.html">LOGIN</a></button>-->
+                    <button>LOGIN</button>
                 </form>
             </div>
         </div>
