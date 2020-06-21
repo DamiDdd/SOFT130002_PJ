@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bf163c1-929b-4189-bf4a-96ca29e19716" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/lab9-exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/travelGallery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/travelGallery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Wanna-To-Travel-Web-PJ-" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
@@ -105,6 +102,8 @@
       <workItem from="1588724136797" duration="88000" />
       <workItem from="1590928456918" duration="3341000" />
       <workItem from="1591536317496" duration="603000" />
+      <workItem from="1592667066742" duration="2474000" />
+      <workItem from="1592707883611" duration="170000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1585017015094</created>
@@ -367,10 +366,10 @@
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1585038440368" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1585038109058" />
     <state x="362" y="54" key="CommitChangelistDialog2/0.23.1440.831@0.23.1440.831" timestamp="1585034874393" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1591536552414">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592708051078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591536552414" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592708051078" />
     <state width="1830" height="249" key="GridCell.Tab.0.bottom" timestamp="1591536921606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -413,12 +412,12 @@
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1585052218091" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1585038442466" />
     <state x="368" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1585038134972" />
-    <state x="558" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1592667071511">
+    <state x="558" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1592708046161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="372" y="217" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587664336709" />
     <state x="419" y="288" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584868278401" />
-    <state x="558" y="332" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592667071511" />
+    <state x="558" y="332" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592708046161" />
     <state x="419" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.817@0.23.1440.817" timestamp="1585116227235" />
     <state x="419" y="286" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1585302592000" />
     <state x="419" y="289" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1584606295309" />
